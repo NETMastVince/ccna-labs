@@ -1,7 +1,11 @@
 # ccna-labs
-Basic HQ and Branch communication involving one DHCP server at HQ supplying IP addresses to end devices in Branch over the internet. 
-OSPF protocol running on routers and L3 SWs for neigborship disovery of connected routes.
-Inter-VLAN routing configured.
-Printers also got address through DHCP.
-DHCP server device configurations.
+HQ and Branch enterprise networking.
+ASA Firewall basic config (NAT, ACL and Zoning)
+Inter-VLAN routing.
+DMZ server implementation.
 ip dhcp helper address config on L3 SWs to allow for automatic IP supply to end devices on both HQ and Branch.
+VOIP Telephony config.
+WLC Wireless config.
+Site to Site IPSec VPN config.
+STP Portfast and BPDU guard config.
+Syslog Server config.
