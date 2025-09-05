@@ -1,5 +1,5 @@
 # ccna-labs
-HQ and Branch enterprise networking.
+Secure Enterprise networking.
 ASA Firewall basic config (NAT, ACL and Zoning)
 Inter-VLAN routing.
 DMZ server implementation.
